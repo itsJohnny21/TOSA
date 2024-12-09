@@ -1,17 +1,17 @@
 # Fdb version 4
-["bibtex /Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp"] 1733721529 "/Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp.aux" "/Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp.bbl" "/Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp" 1733721531 0
+["bibtex /Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp"] 1733721529 "/Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp.aux" "/Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp.bbl" "/Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp" 1733721938 0
   "/Users/jonisalazar/git/TOSA/LaTeX/Paper/references.bib" 1733720488 1573 41aa4cb573c63231169fb46502940b88 ""
-  "/Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp.aux" 1733721530 2337 dde7ca790f5803ab7fdbfa4ee1c0e183 "pdflatex"
+  "/Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp.aux" 1733721938 2337 dde7ca790f5803ab7fdbfa4ee1c0e183 "pdflatex"
   "/usr/local/texlive/2023/texmf-dist/bibtex/bst/base/apalike.bst" 1292289607 24635 604dafcc79f521a11ea73e506e1fbd98 ""
   (generated)
   "/Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp.bbl"
   "/Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp.blg"
   (rewritten before read)
-["pdflatex"] 1733721529 "/Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp.tex" "/Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp.pdf" "tmp" 1733721531 0
-  "/Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp.aux" 1733721530 2337 dde7ca790f5803ab7fdbfa4ee1c0e183 "pdflatex"
+["pdflatex"] 1733721937 "/Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp.tex" "/Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp.pdf" "tmp" 1733721938 0
+  "/Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp.aux" 1733721938 2337 dde7ca790f5803ab7fdbfa4ee1c0e183 "pdflatex"
   "/Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp.bbl" 1733721529 704 13412224d36b7440b22e30ff11b0d0b6 "bibtex /Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp"
-  "/Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp.out" 1733721530 1422 3a480ec67c40d4ae01d0bc8f09e30d93 "pdflatex"
-  "/Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp.tex" 1733721520 19553 5bfcf5a039495eac84e5f77aca667210 ""
+  "/Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp.out" 1733721938 1422 3a480ec67c40d4ae01d0bc8f09e30d93 "pdflatex"
+  "/Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp.tex" 1733721920 19568 29ee578141973b8c33f2c8feee2acd5c ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq.enc" 1490131464 2921 8ca0eb0831f9bc5da080d3697cfe67bf ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc" 1490131464 2933 9ad527ce78d7c5fa0a642dead095f172 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc" 1490131464 2934 a4a9158faed2e9e89c771b4e3b7fc12f ""
