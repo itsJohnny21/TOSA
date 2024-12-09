@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.24)  8 DEC 2024 22:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.24)  8 DEC 2024 22:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -816,36 +816,71 @@ LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
 (Font)              scaled to size 7.0pt on input line 105.
  [2.2]
-Overfull \hbox (3.05206pt too wide) in paragraph at lines 133--135
+<./resources/avg_words_per_sentence_updated.png, id=76, 578.16pt x 361.35pt>
+File: ./resources/avg_words_per_sentence_updated.png Graphic file (type png)
+<use ./resources/avg_words_per_sentence_updated.png>
+Package pdftex.def Info: ./resources/avg_words_per_sentence_updated.png  used on input line 119.
+(pdftex.def)             Requested size: 202.51491pt x 126.56813pt.
+<./resources/avg_chars_per_sentence_updated.png, id=78, 578.16pt x 361.35pt>
+File: ./resources/avg_chars_per_sentence_updated.png Graphic file (type png)
+<use ./resources/avg_chars_per_sentence_updated.png>
+Package pdftex.def Info: ./resources/avg_chars_per_sentence_updated.png  used on input line 122.
+(pdftex.def)             Requested size: 202.51491pt x 126.56813pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+<./resources/common_word_index_updated.png, id=79, 613.0905pt x 291.489pt>
+File: ./resources/common_word_index_updated.png Graphic file (type png)
+<use ./resources/common_word_index_updated.png>
+Package pdftex.def Info: ./resources/common_word_index_updated.png  used on input line 125.
+(pdftex.def)             Requested size: 202.51491pt x 96.28506pt.
+<./resources/font_size_usage_updated.png, id=80, 578.16pt x 361.35pt>
+File: ./resources/font_size_usage_updated.png Graphic file (type png)
+<use ./resources/font_size_usage_updated.png>
+Package pdftex.def Info: ./resources/font_size_usage_updated.png  used on input line 128.
+(pdftex.def)             Requested size: 202.51491pt x 126.56813pt.
+ [3.3 </Users/jonisalazar/git/TOSA/LaTeX/Paper/./resources/avg_words_per_sentence_updated.png> </Users/jonisalazar/git/TOSA/LaTeX/Paper/./resources/avg_chars_per_sentence_updated.png> </Users/jonisalazar/git/TOSA/LaTeX/Paper/./resources/common_word_index_updated.png> </Users/jonisalazar/git/TOSA/LaTeX/Paper/./resources/font_size_usage_updated.png>]
+<./resources/bold_lettering_usage_updated.png, id=89, 578.16pt x 361.35pt>
+File: ./resources/bold_lettering_usage_updated.png Graphic file (type png)
+<use ./resources/bold_lettering_usage_updated.png>
+Package pdftex.def Info: ./resources/bold_lettering_usage_updated.png  used on input line 131.
+(pdftex.def)             Requested size: 202.51491pt x 126.56813pt.
+
+Overfull \hbox (3.05206pt too wide) in paragraph at lines 133--134
 \T1/LinuxLibertineT-TLF/m/n/9 (-20) quired to read Terms of Ser-vice con-tracts dropped marginally
  []
 
-[3.3] (/Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp.bbl
+<./resources/reading_time_updated.png, id=90, 578.16pt x 361.35pt>
+File: ./resources/reading_time_updated.png Graphic file (type png)
+<use ./resources/reading_time_updated.png>
+Package pdftex.def Info: ./resources/reading_time_updated.png  used on input line 134.
+(pdftex.def)             Requested size: 202.51491pt x 126.56813pt.
+(/Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp.bbl
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
 (Font)              scaled to size 7.0pt on input line 6.
-) (/usr/local/texlive/2023/texmf-dist/tex/generic/stringenc/se-pdfdoc.def
+) [4.4{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc} </Users/jonisalazar/git/TOSA/LaTeX/Paper/./resources/bold_lettering_usage_updated.png> </Users/jonisalazar/git/TOSA/LaTeX/Paper/./resources/reading_time_updated.png>] (/usr/local/texlive/2023/texmf-dist/tex/generic/stringenc/se-pdfdoc.def
 File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
 ) (/usr/local/texlive/2023/texmf-dist/tex/generic/stringenc/se-utf8.def
 File: se-utf8.def 2019/11/29 v1.12 stringenc: UTF-8
-) [4.4
+) [5.5
 
-{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc}] (/Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp.aux)
+] (/Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp.aux)
 Package rerunfilecheck Info: File `tmp.out' has not changed.
 (rerunfilecheck)             Checksum: 3A480EC67C40D4AE01D0BC8F09E30D93;1422.
  ) 
 Here is how much of TeX's memory you used:
- 20923 strings out of 476025
- 339736 string characters out of 5790017
+ 20998 strings out of 476025
+ 342893 string characters out of 5790017
  1879388 words of memory out of 5000000
- 40556 multiletter control sequences out of 15000+600000
- 615803 words of font info for 243 fonts, out of 8000000 for 9000
+ 40616 multiletter control sequences out of 15000+600000
+ 616447 words of font info for 247 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
- 85i,12n,131p,1325b,589s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 85i,12n,131p,1325b,601s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/libertine/LinBiolinumT.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/libertine/LinBiolinumTB.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/libertine/LinLibertineTI.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/newtx/txsys.pfb>
-Output written on /Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp.pdf (4 pages, 375858 bytes).
+Output written on /Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp.pdf (5 pages, 666005 bytes).
 PDF statistics:
- 128 PDF objects out of 1000 (max. 8388607)
- 104 compressed objects within 2 object streams
- 24 named destinations out of 1000 (max. 500000)
- 51305 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 146 PDF objects out of 1000 (max. 8388607)
+ 109 compressed objects within 2 object streams
+ 25 named destinations out of 1000 (max. 500000)
+ 51335 words of extra memory for PDF output out of 51595 (max. 10000000)
 
