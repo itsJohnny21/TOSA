@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.24)  8 DEC 2024 22:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.24)  8 DEC 2024 22:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -816,119 +816,36 @@ LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
 (Font)              scaled to size 7.0pt on input line 105.
  [2.2]
-
-/Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp.tex:119: LaTeX Error: File `avg_words_per_sentence_updated' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.119 ...extwidth]{avg_words_per_sentence_updated}
-                                                  }
-I could not locate the file with any of these extensions:
-.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-/Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp.tex:122: LaTeX Error: File `avg_chars_per_sentence_updated' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.122 ...extwidth]{avg_chars_per_sentence_updated}
-                                                  }
-I could not locate the file with any of these extensions:
-.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-/Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp.tex:125: LaTeX Error: File `common_word_index_updated' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.125 ...0.4\textwidth]{common_word_index_updated}
-                                                  }
-I could not locate the file with any of these extensions:
-.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-/Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp.tex:128: LaTeX Error: File `font_size_usage_updated' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.128 ...h=0.4\textwidth]{font_size_usage_updated}
-                                                  }
-I could not locate the file with any of these extensions:
-.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-/Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp.tex:131: LaTeX Error: File `bold_lettering_usage_updated' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.131 ...\textwidth]{bold_lettering_usage_updated}
-                                                  }
-I could not locate the file with any of these extensions:
-.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Overfull \hbox (3.05206pt too wide) in paragraph at lines 133--134
+Overfull \hbox (3.05206pt too wide) in paragraph at lines 133--135
 \T1/LinuxLibertineT-TLF/m/n/9 (-20) quired to read Terms of Ser-vice con-tracts dropped marginally
  []
 
-
-/Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp.tex:134: LaTeX Error: File `reading_time_updated' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.134 ...idth=0.4\textwidth]{reading_time_updated}
-                                                  }
-I could not locate the file with any of these extensions:
-.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-(/Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp.bbl [3.3]
+[3.3] (/Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp.bbl
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/it' will be
 (Font)              scaled to size 7.0pt on input line 6.
 ) (/usr/local/texlive/2023/texmf-dist/tex/generic/stringenc/se-pdfdoc.def
 File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
 ) (/usr/local/texlive/2023/texmf-dist/tex/generic/stringenc/se-utf8.def
 File: se-utf8.def 2019/11/29 v1.12 stringenc: UTF-8
-) [4.4{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc}] (/Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp.aux)
+) [4.4
+
+{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc}] (/Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp.aux)
 Package rerunfilecheck Info: File `tmp.out' has not changed.
-(rerunfilecheck)             Checksum: 9758230B28284376AEE2C8A6400259A8;1519.
+(rerunfilecheck)             Checksum: 3A480EC67C40D4AE01D0BC8F09E30D93;1422.
  ) 
 Here is how much of TeX's memory you used:
- 21123 strings out of 476025
- 346461 string characters out of 5790017
+ 20923 strings out of 476025
+ 339736 string characters out of 5790017
  1879388 words of memory out of 5000000
- 40737 multiletter control sequences out of 15000+600000
- 616447 words of font info for 247 fonts, out of 8000000 for 9000
+ 40556 multiletter control sequences out of 15000+600000
+ 615803 words of font info for 243 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
  85i,12n,131p,1325b,589s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/libertine/LinBiolinumT.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/libertine/LinBiolinumTB.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/libertine/LinLibertineT.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/libertine/LinLibertineTB.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/libertine/LinLibertineTI.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/newtx/txsys.pfb>
-Output written on /Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp.pdf (4 pages, 375952 bytes).
+Output written on /Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp.pdf (4 pages, 375598 bytes).
 PDF statistics:
- 131 PDF objects out of 1000 (max. 8388607)
- 107 compressed objects within 2 object streams
+ 128 PDF objects out of 1000 (max. 8388607)
+ 104 compressed objects within 2 object streams
  24 named destinations out of 1000 (max. 500000)
- 51313 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 51305 words of extra memory for PDF output out of 51595 (max. 10000000)
 

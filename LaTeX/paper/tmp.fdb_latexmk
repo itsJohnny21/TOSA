@@ -1,23 +1,17 @@
 # Fdb version 4
-["bibtex /Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp"] 1733720637 "/Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp.aux" "/Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp.bbl" "/Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp" 1733720638 0
+["bibtex /Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp"] 1733721529 "/Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp.aux" "/Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp.bbl" "/Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp" 1733721531 0
   "/Users/jonisalazar/git/TOSA/LaTeX/Paper/references.bib" 1733720488 1573 41aa4cb573c63231169fb46502940b88 ""
-  "/Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp.aux" 1733720638 2442 7784b8938ccc8588ec3daecfd9f4d067 "pdflatex"
+  "/Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp.aux" 1733721530 2337 dde7ca790f5803ab7fdbfa4ee1c0e183 "pdflatex"
   "/usr/local/texlive/2023/texmf-dist/bibtex/bst/base/apalike.bst" 1292289607 24635 604dafcc79f521a11ea73e506e1fbd98 ""
   (generated)
   "/Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp.bbl"
   "/Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp.blg"
   (rewritten before read)
-["pdflatex"] 1733720637 "/Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp.tex" "/Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp.pdf" "tmp" 1733720638 2
-  "/Users/jonisalazar/git/TOSA/LaTeX/Paper/avg_chars_per_sentence_updated" 0 -1 0 ""
-  "/Users/jonisalazar/git/TOSA/LaTeX/Paper/avg_words_per_sentence_updated" 0 -1 0 ""
-  "/Users/jonisalazar/git/TOSA/LaTeX/Paper/bold_lettering_usage_updated" 0 -1 0 ""
-  "/Users/jonisalazar/git/TOSA/LaTeX/Paper/common_word_index_updated" 0 -1 0 ""
-  "/Users/jonisalazar/git/TOSA/LaTeX/Paper/font_size_usage_updated" 0 -1 0 ""
-  "/Users/jonisalazar/git/TOSA/LaTeX/Paper/reading_time_updated" 0 -1 0 ""
-  "/Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp.aux" 1733720638 2442 7784b8938ccc8588ec3daecfd9f4d067 "pdflatex"
-  "/Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp.bbl" 1733720637 704 13412224d36b7440b22e30ff11b0d0b6 "bibtex /Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp"
-  "/Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp.out" 1733720638 1519 9758230b28284376aee2c8a6400259a8 "pdflatex"
-  "/Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp.tex" 1733720632 19383 45da7b7fa90fdf4b3655fe983c9236ea ""
+["pdflatex"] 1733721529 "/Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp.tex" "/Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp.pdf" "tmp" 1733721531 0
+  "/Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp.aux" 1733721530 2337 dde7ca790f5803ab7fdbfa4ee1c0e183 "pdflatex"
+  "/Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp.bbl" 1733721529 704 13412224d36b7440b22e30ff11b0d0b6 "bibtex /Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp"
+  "/Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp.out" 1733721530 1422 3a480ec67c40d4ae01d0bc8f09e30d93 "pdflatex"
+  "/Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp.tex" 1733721520 19553 5bfcf5a039495eac84e5f77aca667210 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq.enc" 1490131464 2921 8ca0eb0831f9bc5da080d3697cfe67bf ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc" 1490131464 2933 9ad527ce78d7c5fa0a642dead095f172 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc" 1490131464 2934 a4a9158faed2e9e89c771b4e3b7fc12f ""
@@ -188,12 +182,6 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1695615961 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1695615921 7883459 e9c2a7c60e62911031e38363a262c86b ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "avg_chars_per_sentence_updated" 0 -1 0 ""
-  "avg_words_per_sentence_updated" 0 -1 0 ""
-  "bold_lettering_usage_updated" 0 -1 0 ""
-  "common_word_index_updated" 0 -1 0 ""
-  "font_size_usage_updated" 0 -1 0 ""
-  "reading_time_updated" 0 -1 0 ""
   (generated)
   "/Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp.aux"
   "/Users/jonisalazar/git/TOSA/LaTeX/Paper/tmp.log"
