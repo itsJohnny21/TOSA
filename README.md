@@ -8,12 +8,12 @@ Project for creating a GPT model that analyzes and simplifies Terms of Service c
 - **Affiliation**: Arizona State University  
   **City**: Tempe, Arizona, USA  
 
-### Austin
+### Austin Nguyen
 - **Email**: [author2@gmail.com](mailto:author2@gmail.com)
 - **Affiliation**: Arizona State University  
   **City**: Tempe, Arizona, USA  
 
-### Tyler
+### Tyler Shurley
 - **Email**: [author3@gmail.com](mailto:author3@gmail.com)
 - **Affiliation**: Arizona State University  
   **City**: Tempe, Arizona, USA  
